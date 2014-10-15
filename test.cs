@@ -29,7 +29,7 @@ namespace LOCTool
             bool start = false;
 
             
-            if (args.Length == 2)       // called with a config file only
+            if (args.Length == 2 || args.Length == 99)       // called with a config file only
             {
                 configFile      = args[0];
                 outputFolder    = args[1]; 

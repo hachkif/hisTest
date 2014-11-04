@@ -9,6 +9,16 @@ namespace LOCTool
     class Program
     {
 
+/*
+
+
+
+
+comment added multiline
+
+bla
+bla
+*/
         // added a comment...
 
         private static readonly ITypeMethodLog Logger = TypeMethodLogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);

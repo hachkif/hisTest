@@ -12,8 +12,6 @@ namespace LOCTool
 /*
 
 
-
-
 comment added multiline
 
 bla
